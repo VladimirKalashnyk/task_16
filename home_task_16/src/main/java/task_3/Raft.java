@@ -10,11 +10,11 @@ public class Raft extends Boat {
 
     @Override
     public int getSpeed() {
-        return 0;
+        return speed;
     }
 
     @Override
     public int getNumberPassengers() {
-        return 0;
+        return numberPassengers;
     }
 }
